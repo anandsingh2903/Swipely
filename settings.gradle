@@ -1,0 +1,2 @@
+include ':app', ':swipelylib'
+rootProject.name='Swipely'
